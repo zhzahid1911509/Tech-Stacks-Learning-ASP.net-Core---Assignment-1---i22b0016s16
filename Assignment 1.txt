@@ -1,0 +1,1 @@
+We will develop Inventory Management System with Clean Architecture, Repository Design Pattern with ASP.NET Core, MS SQL Server, Telerik, Razor Pages, Entity Framework etc. In this management system there will be Login, Registration, Home/Layout, Purchase, Sales, Stock Management etc.
